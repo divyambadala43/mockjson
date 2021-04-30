@@ -1,14 +1,17 @@
 [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
     },
-  {
-    "id": 2,
-    "name": "Graham Bell",
-    "username": "BellG",
-    "email": "Graham@bell.biz",
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
     },
-]
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ]
